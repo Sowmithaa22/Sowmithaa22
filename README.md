@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sowmithaa Sri</h1>
 <h3 align="center">As an B.Tech Undergraduate student specializing in AI and DS,i have a keen interest in making machines to decide, think and respond like humans. My passion lies in exploring the realms of these fields using cutting-edge technologies.</h3>
 
-- 🌱 I’m currently learning **Generative AI- Machine Learning- Competitive Programmingeb Development-**
+- 🌱 I’m currently learning **Generative AI- Machine Learning- Web Development- Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
